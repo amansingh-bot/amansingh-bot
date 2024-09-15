@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh-bot&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh-bot" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Java Full Stack**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Web Development & Java Developer**
 
 - 📫 How to reach me **ulamansingh.2704@gmail.com**
 
